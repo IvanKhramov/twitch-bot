@@ -1,0 +1,7 @@
+AllowedUserList: 
+  - HellYeahPlay
+  - theKapustaa
+ChannelName: thekapustaa
+Token: token
+StartText: "НАЧАЛО ГОЛОСОВАНИЯ. СТАВЬТЕ ОЦЕНКИ ОТ 1 ДО 10!"
+EndText: "ГОЛОСОВАНИЕ ЗАКРЫТО! СРЕДНЯЯ ОЦЕНКА - {{.Avg_rating}} ВСЕГО ПРОГОЛОСОВАЛИ - {{.Total_votes}}. САМАЯ ЧАСТАЯ ОЦЕНКА - {{.Top_vote}} (проголосовали {{.Count_top_vote}} раз)."
